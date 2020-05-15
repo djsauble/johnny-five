@@ -150,7 +150,6 @@
   "license": "MIT",
   "main": "lib/johnny-five",
   "dependencies": {
-    "chalk": "2.1.0",
     "color-convert": "~1.2.2",
     "lodash.clonedeep": "^4.3.0",
     "lodash.debounce": "^4.0.3",
